@@ -9,6 +9,6 @@ Repositório criado para armazenar os códigos, testes e exercícios da matéria
 ##  📚 Conteúdos
 -  Variáveis e Entrada/Saída (`printf`,  `scanf`)
 -  Estruturas Condicionais (`if...`,  `else`,  `switch`)
--  Estruturas de Repetição ('while',  `for...`)
+-  Estruturas de Repetição (`while`, `for`)
 -  Vetores e Matrizes
 -  Funções e Procedimentos
